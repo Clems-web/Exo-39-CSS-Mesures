@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 62.5%;
+}
+
+body {
+    background-color: white;
+}
+
+.container {
+    background-color: lightgray;
+    border: 2px dashed coral;
+    width: 20rem;
+    height: 20rem;
+}
